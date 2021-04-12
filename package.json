@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/cocr26/fizzBuzz/issues"
   },
-  "homepage": "https://github.com/cocr26/fizzBuzz#readme"
+  "homepage": "https://github.com/cocr26/fizzBuzz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
